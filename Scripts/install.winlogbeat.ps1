@@ -1,7 +1,3 @@
-
-
-
-
 $winlogbeatPath = "C:\Tools\Winlogbeat"
 
 Write-Host "Installing Winlogbeat..."
@@ -13,4 +9,3 @@ Copy-Item "C:\Tools\Winlogbeat\custom_winlogbeat.yml" "$winlogbeatPath\winlogbea
 Start-Service winlogbeat
 
 Write-Host "Winlogbeat service started and sending logs to Elasticsearch"
-
