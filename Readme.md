@@ -91,18 +91,12 @@ Refer to `SecurityHardening.md` for details on:
 
 ---
 
-## 📈 Future Improvements (Optional)
+## 📈 Future Improvements 
 
 - Add simulated attacks using Kali Linux or Atomic Red Team
 - Integrate Sigma rules for detection use cases
 - Use Logstash for custom parsing pipelines
 
----
-
-## ✍️ Author
-
-**Jay_Life**  
-Beginner Cybersecurity Enthusiast on a mission to build strong blue team skills and land a SOC Analyst role.
 
 ---
 
