@@ -1,5 +1,3 @@
-
-
 $sysmonPath = "C:\Tools\Sysmon\Sysmon64.exe"
 $configPath = "C:\Tools\Sysmon\sysmonconfig.xml"
 
