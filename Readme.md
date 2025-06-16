@@ -30,21 +30,21 @@ This project demonstrates how to set up and monitor an *Active Directory environ
 
  🔹 1. Domain Join Success
 
-![Domain Join](screenshots/domain_join_success.png)
+![Domain Join](Screenshots/domain_join_success.png)
 
  🔹 2. Sysmon Installation Complete
 
-![Sysmon Installed](screenshots/sysmon_installation.png)
+![Sysmon Installed](Screenshots/sysmon_installation.png)
 
  🔹 3. Winlogbeat Config and Service Running
 
-![Winlogbeat Running](screenshots/winlogbeat_running.png)
+![Winlogbeat Running](Screenshots/winlogbeat_running.png)
 
  🔹 4. Kibana Dashboard Showing Logs
 
-![Kibana Dashboard](screenshots/kibana_dashboard.png)
+![Kibana Dashboard](Screenshots/kibana_dashboard.png)
 
-> ℹ️ More screenshots are available in the /screenshots/ folder.
+> ℹ️ More screenshots are available in the /Screenshots/ folder.
 
 ---
 
