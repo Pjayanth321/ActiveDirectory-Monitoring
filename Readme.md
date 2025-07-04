@@ -112,23 +112,6 @@ Implemented via Group Policy and manual configuration:
 
 ---
 
-## 📌 Notes
-
-- This project does **not** use Splunk, Linux, or red team tools like Kali.
-- The focus is on **setting up and monitoring a clean AD environment** using Elastic Stack tools.
-- Ideal for beginner SOC analysts or cybersecurity students.
-
----
-
-## 📈 Future Improvements 
-
-- Add simulated attacks using Kali Linux or Atomic Red Team
-- Integrate Sigma rules for detection use cases
-- Use Logstash for custom parsing pipelines
-
-
----
-
 ## 📚 Credits
 
 - [Elastic Stack](https://www.elastic.co/)
